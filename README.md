@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ESTHER-OLA/password-generator-app)
-- [Live Site URL](https://esther-ola.github.io/age-calculator-app-group-7/)
+- [Solution URL](https://github.com/ESTHER-OLA/multi-step-form-app)
+- [Live Site URL](https://multi-step-form-cc.netlify.app/)
 
 ## My process
 
